@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Undertale',
+    'Qual o nome do personagem escondido do jogo?',
+    'W.D Gaster'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'FNAF',
+    'Quem é o vilão do jogo?',
+    'Willian Afton'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'RE2',
+    'Qual a personagem mais insuportável do jogo?',
+    'A ASHELEY, LÓGICO'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Jogo',
+    'Qual o jogo mais dificil de todos?',
+    'Dark Souls'
 )
